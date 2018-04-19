@@ -33,16 +33,17 @@ body {
 }*/
 
 .picture_card {
-  padding: 50px;
+  padding: 5%;
 }
 
 .picture_card_background {
 
   background-color: white;
-  padding: 80px;
+  padding: 5%;
   margin: 0 auto;
   margin-top: 5%;
   max-width: 40%;
+  max-height: 80%;
   box-shadow: 0rem 1.125rem 4.125rem 0rem rgba(0,0,0,0.1);  
   border-radius: 10px;
   text-align: center;
@@ -83,7 +84,7 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   text-align: center; 
-  background-color: #6772e5;      
+  background-color: #6772e5; 
   }
 
 .btn-secondary:hover {
