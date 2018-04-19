@@ -59,7 +59,8 @@
   text-decoration: none;
   text-align: center; 
   background-color: #6772e5; 
-  width: 50%;
+  width: 25%;
+  font-size: 1.0vw;
   }
 
 .btn-resume:hover {
