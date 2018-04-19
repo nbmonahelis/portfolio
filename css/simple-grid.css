@@ -30,8 +30,7 @@ body {
 /* TYPOGRAPHY */
 
 h1 {
-  font-size: 2.2rem;
-  width: 100%;
+  font-size: 2.2vw;
 }
 
 h2 {
@@ -48,7 +47,6 @@ h4 {
 
 h5 {
   font-size: 1rem;
-  width: 100%;
 }
 
 h6 {
@@ -56,7 +54,7 @@ h6 {
 }
 
 p {
-  font-size: 1.125rem;
+  font-size: 2vw;
   font-weight: 200;
   line-height: 1.8;
 }
